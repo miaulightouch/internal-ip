@@ -40,7 +40,7 @@
 		"gateway"
 	],
 	"dependencies": {
-		"default-gateway": "^6.0.3",
+		"default-gateway": "github:miaulightouch/default-gateway",
 		"ipaddr.js": "^2.0.1",
 		"is-ip": "^3.1.0",
 		"p-event": "^4.2.0"
